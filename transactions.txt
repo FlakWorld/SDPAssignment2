@@ -1,0 +1,460 @@
+				--------------------Invoice-----------------
+					   Metro Mart Grocery Shop
+					3/98 Mecrobertganj New Mumbai
+					    Opposite Metro Walk
+GSTIN: 03AWBPP8756K592							Contact: (+91) 9988776655
+Date: 06/10/2023 23:56:18  Friday						 (+91) 9998887770
+
+Cashier: flak
+
+Product ID 		Name		Quantity		Rate 				Total Price
+-----------------------------------------------------------------------------------------------------------------------------------
+   20                    yes               10                  100,00                              1000,00
+
+Total Amount (Rs.) 1000.0
+
+Discount (Rs.) 20.0
+
+Subtotal 980.0
+
+SGST (%) 120.0
+
+CGST (%) 120.0
+
+Invoice Total 1220.0
+				----------------Thank You for Shopping!!-----------------
+				                     Visit Again
+
+				--------------------Invoice-----------------
+					   Metro Mart Grocery Shop
+					3/98 Mecrobertganj New Mumbai
+					    Opposite Metro Walk
+GSTIN: 03AWBPP8756K592							Contact: (+91) 9988776655
+Date: 07/10/2023 00:01:17  Saturday						 (+91) 9998887770
+
+Cashier: da
+
+Product ID 		Name		Quantity		Rate 				Total Price
+-----------------------------------------------------------------------------------------------------------------------------------
+   20                    bread             20                  100,00                              2000,00
+
+Total Amount (Rs.) 2000.0
+
+Discount (Rs.) 40.0
+
+Subtotal 1960.0
+
+SGST (%) 240.0
+
+CGST (%) 240.0
+
+Invoice Total 2440.0
+				----------------Thank You for Shopping!!-----------------
+				                     Visit Again
+
+				--------------------Invoice-----------------
+					   Metro Mart Grocery Shop
+					3/98 Mecrobertganj New Mumbai
+					    Opposite Metro Walk
+GSTIN: 03AWBPP8756K592							Contact: (+91) 9988776655
+Date: 07/10/2023 00:07:21  Saturday						 (+91) 9998887770
+
+Cashier: 
+
+Product ID 		Name		Quantity		Rate 				Total Price
+-----------------------------------------------------------------------------------------------------------------------------------
+                         Milk              20                  100,00                              2000,00
+
+Total Amount (Rs.) 2000.0
+
+Discount (Rs.) 40.0
+
+Subtotal 1960.0
+
+SGST (%) 240.0
+
+CGST (%) 240.0
+
+Invoice Total 2440.0
+				----------------Thank You for Shopping!!-----------------
+				                     Visit Again
+
+				--------------------Invoice-----------------
+					   Metro Mart Grocery Shop
+					3/98 Mecrobertganj New Mumbai
+					    Opposite Metro Walk
+GSTIN: 03AWBPP8756K592							Contact: (+91) 9988776655
+Date: 07/10/2023 00:14:22  Saturday						 (+91) 9998887770
+
+Cashier: 
+
+Product ID 		Name		Quantity		Rate 				Total Price
+-----------------------------------------------------------------------------------------------------------------------------------
+   100                   fACK              20                   30,00                               600,00
+
+Total Amount (Rs.) 600.0
+
+Discount (Rs.) 12.0
+
+Subtotal 588.0
+
+SGST (%) 72.0
+
+CGST (%) 72.0
+
+Invoice Total 732.0
+				----------------Thank You for Shopping!!-----------------
+				                     Visit Again
+
+				--------------------Invoice-----------------
+					   Metro Mart Grocery Shop
+					3/98 Mecrobertganj New Mumbai
+					    Opposite Metro Walk
+GSTIN: 03AWBPP8756K592							Contact: (+91) 9988776655
+Date: 07/10/2023 00:15:46  Saturday						 (+91) 9998887770
+
+Cashier: SelfService
+
+Product ID 		Name		Quantity		Rate 				Total Price
+-----------------------------------------------------------------------------------------------------------------------------------
+   1                     Chocolate          1                  100,00                               100,00
+
+Total Amount (Rs.) 100.0
+
+Discount (Rs.) 2.0
+
+Subtotal 98.0
+
+SGST (%) 12.0
+
+CGST (%) 12.0
+
+Invoice Total 122.0
+				----------------Thank You for Shopping!!-----------------
+				                     Visit Again
+
+				--------------------Invoice-----------------
+					   Metro Mart Grocery Shop
+					3/98 Mecrobertganj New Mumbai
+					    Opposite Metro Walk
+GSTIN: 03AWBPP8756K592							Contact: (+91) 9988776655
+Date: 07/10/2023 00:36:18  Saturday						 (+91) 9998887770
+
+Cashier: SelfService
+
+Product ID 		Name		Quantity		Rate 				Total Price
+-----------------------------------------------------------------------------------------------------------------------------------
+   100                   oda               10                 1000,00                             10000,00
+
+Total Amount (Rs.) 10000.0
+
+Discount (Rs.) 200.0
+
+Subtotal 9800.0
+
+SGST (%) 1200.0
+
+CGST (%) 1200.0
+
+Invoice Total 12200.0
+				----------------Thank You for Shopping!!-----------------
+				                     Visit Again
+
+				--------------------Invoice-----------------
+					   Metro Mart Grocery Shop
+					3/98 Mecrobertganj New Mumbai
+					    Opposite Metro Walk
+GSTIN: 03AWBPP8756K592							Contact: (+91) 9988776655
+Date: 07/10/2023 00:44:15  Saturday						 (+91) 9998887770
+
+Cashier: SelfService
+
+Product ID 		Name		Quantity		Rate 				Total Price
+-----------------------------------------------------------------------------------------------------------------------------------
+   20                    zoom              10                   20,00                               200,00
+
+Total Amount (Rs.) 200.0
+
+Discount (Rs.) 4.0
+
+Subtotal 196.0
+
+SGST (%) 24.0
+
+CGST (%) 24.0
+
+Invoice Total 244.0
+				----------------Thank You for Shopping!!-----------------
+				                     Visit Again
+
+				--------------------Invoice-----------------
+					   Metro Mart Grocery Shop
+					3/98 Mecrobertganj New Mumbai
+					    Opposite Metro Walk
+GSTIN: 03AWBPP8756K592							Contact: (+91) 9988776655
+Date: 07/10/2023 00:48:25  Saturday						 (+91) 9998887770
+
+Cashier: Yes
+
+Product ID 		Name		Quantity		Rate 				Total Price
+-----------------------------------------------------------------------------------------------------------------------------------
+   2                     2                  2                  100,00                               200,00
+
+Total Amount (Rs.) 200.0
+
+Discount (Rs.) 4.0
+
+Subtotal 196.0
+
+SGST (%) 24.0
+
+CGST (%) 24.0
+
+Invoice Total 244.0
+				----------------Thank You for Shopping!!-----------------
+				                     Visit Again
+
+				--------------------Invoice-----------------
+					   Metro Mart Grocery Shop
+					3/98 Mecrobertganj New Mumbai
+					    Opposite Metro Walk
+GSTIN: 03AWBPP8756K592							Contact: (+91) 9988776655
+Date: 07/10/2023 01:09:05  Saturday						 (+91) 9998887770
+
+Cashier: Alya
+
+Product ID 		Name		Quantity		Rate 				Total Price
+-----------------------------------------------------------------------------------------------------------------------------------
+   7                     curt              20                  100,00                              2000,00
+
+Total Amount (Rs.) 2000.0
+
+Discount (Rs.) 40.0
+
+Subtotal 1960.0
+
+SGST (%) 240.0
+
+CGST (%) 240.0
+
+Invoice Total 2440.0
+				----------------Thank You for Shopping!!-----------------
+				                     Visit Again
+
+				--------------------Invoice-----------------
+					   Metro Mart Grocery Shop
+					3/98 Mecrobertganj New Mumbai
+					    Opposite Metro Walk
+GSTIN: 03AWBPP8756K592							Contact: (+91) 9988776655
+Date: 07/10/2023 01:39:36  Saturday						 (+91) 9998887770
+
+Cashier: Flak
+
+Product ID 		Name		Quantity		Rate 				Total Price
+-----------------------------------------------------------------------------------------------------------------------------------
+   10                    Milk              20                  100,00                              2000,00
+
+Total Amount (Rs.) 2000.0
+
+Discount (Rs.) 40.0
+
+Subtotal 1960.0
+
+SGST (%) 240.0
+
+CGST (%) 240.0
+
+Invoice Total 2440.0
+				----------------Thank You for Shopping!!-----------------
+				                     Visit Again
+
+				--------------------Invoice-----------------
+					   Metro Mart Grocery Shop
+					3/98 Mecrobertganj New Mumbai
+					    Opposite Metro Walk
+GSTIN: 03AWBPP8756K592							Contact: (+91) 9988776655
+Date: 07/10/2023 01:40:20  Saturday						 (+91) 9998887770
+
+Cashier: Sanzhar
+
+Product ID 		Name		Quantity		Rate 				Total Price
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Total Amount (Rs.) 0.0
+
+Discount (Rs.) 0.0
+
+Subtotal 0.0
+
+SGST (%) 0.0
+
+CGST (%) 0.0
+
+Invoice Total 0.0
+				----------------Thank You for Shopping!!-----------------
+				                     Visit Again
+
+				--------------------Invoice-----------------
+					   Metro Mart Grocery Shop
+					3/98 Mecrobertganj New Mumbai
+					    Opposite Metro Walk
+GSTIN: 03AWBPP8756K592							Contact: (+91) 9988776655
+Date: 07/10/2023 01:41:21  Saturday						 (+91) 9998887770
+
+Cashier: SelfService
+
+Product ID 		Name		Quantity		Rate 				Total Price
+-----------------------------------------------------------------------------------------------------------------------------------
+   100                   soda               1                  100,00                               100,00
+   20                    chocolate         20                  100,00                              2000,00
+
+Total Amount (Rs.) 2100.0
+
+Discount (Rs.) 42.0
+
+Subtotal 2058.0
+
+SGST (%) 252.0
+
+CGST (%) 252.0
+
+Invoice Total 2562.0
+				----------------Thank You for Shopping!!-----------------
+				                     Visit Again
+
+				--------------------Invoice-----------------
+					   Metro Mart Grocery Shop
+					3/98 Mecrobertganj New Mumbai
+					    Opposite Metro Walk
+GSTIN: 03AWBPP8756K592							Contact: (+91) 9988776655
+Date: 07/10/2023 01:42:50  Saturday						 (+91) 9998887770
+
+Cashier: Flak
+
+Product ID 		Name		Quantity		Rate 				Total Price
+-----------------------------------------------------------------------------------------------------------------------------------
+
+Total Amount (Rs.) 0.0
+
+Discount (Rs.) 0.0
+
+Subtotal 0.0
+
+SGST (%) 0.0
+
+CGST (%) 0.0
+
+Invoice Total 0.0
+				----------------Thank You for Shopping!!-----------------
+				                     Visit Again
+
+				--------------------Invoice-----------------
+					   Metro Mart Grocery Shop
+					3/98 Mecrobertganj New Mumbai
+					    Opposite Metro Walk
+GSTIN: 03AWBPP8756K592							Contact: (+91) 9988776655
+Date: 07/10/2023 02:47:26  Saturday						 (+91) 9998887770
+
+Cashier: FLAK
+
+Product ID 		Name		Quantity		Rate 				Total Price
+-----------------------------------------------------------------------------------------------------------------------------------
+   1                     Chocolate          1                  100,00                               100,00
+   2                     soda               2                   50,00                               100,00
+
+Total Amount (Rs.) 200.0
+
+Discount (Rs.) 4.0
+
+Subtotal 196.0
+
+SGST (%) 24.0
+
+CGST (%) 24.0
+
+Invoice Total 244.0
+				----------------Thank You for Shopping!!-----------------
+				                     Visit Again
+
+				--------------------Invoice-----------------
+					   Metro Mart Grocery Shop
+					3/98 Mecrobertganj New Mumbai
+					    Opposite Metro Walk
+GSTIN: 03AWBPP8756K592							Contact: (+91) 9988776655
+Date: 07/10/2023 02:48:59  Saturday						 (+91) 9998887770
+
+Cashier: flak
+
+Product ID 		Name		Quantity		Rate 				Total Price
+-----------------------------------------------------------------------------------------------------------------------------------
+   1                     da                 1                  100,00                               100,00
+   2                     net               30                  100,00                              3000,00
+
+Total Amount (Rs.) 3100.0
+
+Discount (Rs.) 62.0
+
+Subtotal 3038.0
+
+SGST (%) 372.0
+
+CGST (%) 372.0
+
+Invoice Total 3782.0
+				----------------Thank You for Shopping!!-----------------
+				                     Visit Again
+
+				--------------------Invoice-----------------
+					   Metro Mart Grocery Shop
+					3/98 Mecrobertganj New Mumbai
+					    Opposite Metro Walk
+GSTIN: 03AWBPP8756K592							Contact: (+91) 9988776655
+Date: 07/10/2023 03:20:37  Saturday						 (+91) 9998887770
+
+Cashier: Flak
+
+Product ID 		Name		Quantity		Rate 				Total Price
+-----------------------------------------------------------------------------------------------------------------------------------
+   10                    Chocolate          1                 1000,00                              1000,00
+
+Total Amount (Rs.) 1000.0
+
+Discount (Rs.) 20.0
+
+Subtotal 980.0
+
+SGST (%) 120.0
+
+CGST (%) 120.0
+
+Invoice Total 1220.0
+				----------------Thank You for Shopping!!-----------------
+				                     Visit Again
+
+				--------------------Invoice-----------------
+					   Metro Mart Grocery Shop
+					3/98 Mecrobertganj New Mumbai
+					    Opposite Metro Walk
+GSTIN: 03AWBPP8756K592							Contact: (+91) 9988776655
+Date: 07/10/2023 03:53:50  Saturday						 (+91) 9998887770
+
+Cashier: fla
+
+Product ID 		Name		Quantity		Rate 				Total Price
+-----------------------------------------------------------------------------------------------------------------------------------
+   1                     da                 2                   10,00                                20,00
+
+Total Amount (Rs.) 20.0
+
+Discount (Rs.) 0.4
+
+Subtotal 19.6
+
+SGST (%) 2.4
+
+CGST (%) 2.4
+
+Invoice Total 24.4
+				----------------Thank You for Shopping!!-----------------
+				                     Visit Again
+
